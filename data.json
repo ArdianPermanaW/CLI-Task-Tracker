@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "task": "cook dinner for my family",
+        "status": "done"
+    },
+    {
+        "id": 2,
+        "task": "buy onions",
+        "status": "todo"
+    },
+    {
+        "id": 3,
+        "task": "buy a present for dad",
+        "status": "todo"
+    }
+]
